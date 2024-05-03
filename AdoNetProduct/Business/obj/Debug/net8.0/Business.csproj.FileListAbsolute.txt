@@ -1,0 +1,17 @@
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\bin\Debug\net8.0\Core.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\bin\Debug\net8.0\Core.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\AdoNetProduct\Business\obj\Debug\net8.0\ref\Business.dll
